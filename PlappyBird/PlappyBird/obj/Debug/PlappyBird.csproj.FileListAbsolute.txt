@@ -1,0 +1,40 @@
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe.config
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.pdb
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csprojResolveAssemblyReference.cache
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Form1.resources
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Properties.Resources.resources
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.GenerateResource.Cache
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.CoreCompileInputs.cache
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.exe
+E:\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.pdb
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe.config
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.pdb
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Form1.resources
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Properties.Resources.resources
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.GenerateResource.Cache
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.exe
+E:\Projects\Projects At School\ProjectWP\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.pdb
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe.config
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.pdb
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Form1.resources
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Properties.Resources.resources
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.GenerateResource.cache
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.exe
+E:\Projects\Projects At School\ProjectWP\Middle Semester\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.pdb
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe.config
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.exe
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\bin\Debug\PlappyBird.pdb
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csprojAssemblyReference.cache
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Form1.resources
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.Properties.Resources.resources
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.GenerateResource.cache
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.exe
+C:\Users\Quang\Desktop\GameFB\PlappyBird\PlappyBird\obj\Debug\PlappyBird.pdb
